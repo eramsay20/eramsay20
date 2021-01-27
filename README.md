@@ -1,4 +1,4 @@
-[![Header](https://github.com/eramsay20/eramsay20/blob/main/Website%20Banner%20-%20Main%20Page%20GIF.png)
+![Header](https://github.com/eramsay20/eramsay20/blob/main/Website%20Banner%20-%20Main%20Page%20GIF.png)
 
 
 ### Hi there 👋
