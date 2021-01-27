@@ -8,7 +8,7 @@
 You can find me on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2.2]: https://github.com/eramsay20/eramsay20/blob/main/iconfinder_social-linkedin-circle_771370.png
 
 <!-- Links to your social media accounts -->
 [2]: https://www.linkedin.com/in/ericramsay/
