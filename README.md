@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 <!-- Actual text -->
-I'm a full-time student enrolled in App Academy's full-stack immersive software engineering program! I have a passion for learning all about tech, finance and real estate -- and love the rush of adrenaline that comes when solving a challenging problem. Check out my favorite projects above to get a sample of what I can do! Coming from an investment analyst background, I lean heavily on simplicity and clarity problem solving and like to reflect that in my code. 
+I'm a full-time student enrolled in App Academy's full-stack immersive software engineering program! I have a passion for learning all about tech, finance and real estate -- and love the rush of adrenaline that comes when solving a challenging problem. Check out my favorite projects above to get a sample of what I can do. Coming from an investment analyst background, I lean heavily on simplicity and clarity when problem solving and like to reflect that in my code. I hope you find my projects useful!
 
 If you found value in something I have created or have helpful tips on ways to improve, please feel free to send a message and connect with me on [LinkedIn](https://www.linkedin.com/in/ericramsay/)!
 
