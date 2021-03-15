@@ -8,6 +8,8 @@ I'm a full-time student enrolled in App Academy's full-stack immersive software 
 
 If you found value in something I have created or have helpful tips on ways to improve, please feel free to send a message and connect with me on [LinkedIn](https://www.linkedin.com/in/ericramsay/)!
 
+Checkout the latest group project, GoodGames, here: [GoodGames](https://goodgames-appacademy.herokuapp.com/) | [GoodGames Wiki](https://github.com/cubOlson/GoodGames/wiki)
+
 <!--
 **eramsay20/eramsay20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
