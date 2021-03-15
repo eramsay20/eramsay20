@@ -4,7 +4,7 @@
 ### Welcome! 👋
 
 <!-- Actual text -->
-Welcome to my Github profile! To briefly introduce myself, I'm a full-time student currently enrolled in App Academy's full-stack immersive software engineering program! I have a passion for learning all about tech, finance and real estate. Check out a few of my public projects below to get a sample of what I can do.
+To briefly introduce myself, I'm a full-time student currently enrolled in App Academy's full-stack immersive software engineering program! I have a passion for learning all about tech, finance and real estate. Check out a few of my public projects below to get a sample of what I can do.
 
 If you found value in something I'be helped create or have helpful tips on possible improvements, please feel free to message me and/or connect with me on [LinkedIn](https://www.linkedin.com/in/ericramsay/)!
 
