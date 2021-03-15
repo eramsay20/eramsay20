@@ -5,6 +5,7 @@
 
 <!-- Actual text -->
 To briefly introduce myself, I'm a full-time student currently enrolled in App Academy's full-stack immersive software engineering program! I have a passion for learning all about tech, finance and real estate. 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Check out a few of my public projects below to get a sample of what I can do. For the latest and greatest visit my latest project contribution, GoodGames, here: [GoodGames](https://goodgames-appacademy.herokuapp.com/) | [GoodGames Wiki & Info](https://github.com/cubOlson/GoodGames/wiki)
