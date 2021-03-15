@@ -1,14 +1,14 @@
-![Header](https://github.com/eramsay20/eramsay20/blob/main/Website%20Banner%20-%20Main%20Page%20GIF.png)
+![Header](https://github.com/eramsay20/eramsay20/blob/main/ReadMe_Banner.png?raw=true)
 
 
-### Hi there 👋
+### Welcome! 👋
 
 <!-- Actual text -->
-I'm a full-time student enrolled in App Academy's full-stack immersive software engineering program! I have a passion for learning all about tech, finance and real estate. Check out a few of my public projects below to get a sample of what I can do. Coming from an investment analyst background, I lean heavily on simplicity and clarity when problem solving and like to reflect that in my code. 
+Welcome to my Github profile! To briefly introduce myself, I'm a full-time student currently enrolled in App Academy's full-stack immersive software engineering program! I have a passion for learning all about tech, finance and real estate. Check out a few of my public projects below to get a sample of what I can do.
 
-If you found value in something I have created or have helpful tips on ways to improve, please feel free to send a message and connect with me on [LinkedIn](https://www.linkedin.com/in/ericramsay/)!
+If you found value in something I'be helped create or have helpful tips on possible improvements, please feel free to message me and/or connect with me on [LinkedIn](https://www.linkedin.com/in/ericramsay/)!
 
-Checkout the latest group project, GoodGames, here: [GoodGames](https://goodgames-appacademy.herokuapp.com/) | [GoodGames Wiki](https://github.com/cubOlson/GoodGames/wiki)
+Checkout the latest and greatest group project, GoodGames, here: [GoodGames](https://goodgames-appacademy.herokuapp.com/) | [GoodGames Wiki & Info](https://github.com/cubOlson/GoodGames/wiki)
 
 <!--
 **eramsay20/eramsay20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
