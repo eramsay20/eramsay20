@@ -8,7 +8,9 @@ To briefly introduce myself, I'm a full-time student currently enrolled in App A
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-Check out a few of my public projects below to get a sample of what I can do. For the latest and greatest visit my latest project contribution, GoodGames, here: [GoodGames](https://goodgames-appacademy.herokuapp.com/) | [GoodGames Wiki & Info](https://github.com/cubOlson/GoodGames/wiki)
+Check out a few of my public projects below to get a sample of what I can do. For the latest and greatest visit my latest projects below: 
+- [GoodGames](https://goodgames-appacademy.herokuapp.com/) | [GoodGames Wiki & Info](https://github.com/cubOlson/GoodGames/wiki)
+- [ebrite -- COMING SOON!](#) | [ebrite Wiki & Info](https://github.com/eramsay20/ebrite/wiki)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
