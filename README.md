@@ -12,7 +12,7 @@ Check out a few of my public projects below to get a sample of what I can do. Fo
 
 - [e.brite](https://ebrite-app.herokuapp.com/) | [e.brite Repo & Info](https://github.com/eramsay20/ebrite/)
    - e.brite is an eventbrite clone tailored specifically for online events only
-   - 
+   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 - [GoodGames](https://goodgames-appacademy.herokuapp.com/) | [GoodGames Wiki & Info](https://github.com/cubOlson/GoodGames/wiki)
