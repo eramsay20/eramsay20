@@ -11,12 +11,12 @@ To briefly introduce myself, I'm a full-time student currently enrolled in App A
 Check out a few of my public projects below to get a sample of what I can do. For the latest and greatest visit my latest projects below: 
 
 - [e.brite](https://ebrite-app.herokuapp.com/) | [e.brite Repo & Info](https://github.com/eramsay20/ebrite/)
-
-e.brite is an eventbrite clone tailored specifically for online events only
+   - e.brite is an eventbrite clone tailored specifically for online events only
+   - 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 - [GoodGames](https://goodgames-appacademy.herokuapp.com/) | [GoodGames Wiki & Info](https://github.com/cubOlson/GoodGames/wiki)
-
-Goodgames is a clone of GoodReads with a twist of video games instead of books
+  - Goodgames is a clone of GoodReads with a twist of video games instead of books
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
