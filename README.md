@@ -12,9 +12,11 @@ I'm currently enrolled in App Academy's online full-stack software engineering p
 
 <div>
     
-![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eramsay20&&count_private=true&hide=stars&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eramsay20&layout=compact)
+![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eramsay20&&count_private=true&hide=stars&show_icons=true&theme=tokyonight) 
 
 </div>
+
+<!-- Top Lang: ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eramsay20&layout=compact) -->
 
 <!-- Badge Links: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
