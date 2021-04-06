@@ -6,6 +6,8 @@
 <!-- Actual text -->
 To briefly introduce myself, I'm a full-time student currently enrolled in App Academy's full-stack immersive software engineering program! I have a passion for learning all about tech, finance and real estate. 
 
+[![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eramsay20)](https://github.com/anuraghazra/github-readme-stats)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Check out a few of my public projects below to get a sample of what I can do. For the latest and greatest visit my latest projects below: 
