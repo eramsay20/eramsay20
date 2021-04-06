@@ -10,7 +10,7 @@ I'm currently enrolled in App Academy's online full-stack software engineering p
 
 <br/> 
 
-<div align="center">
+<div style="display: inline">
   <div>
     
 ![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eramsay20&&count_private=true&hide=stars&show_icons=true&theme=tokyonight)
