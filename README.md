@@ -1,7 +1,7 @@
 ![Header](https://github.com/eramsay20/eramsay20/blob/main/ReadMe_Banner.png?raw=true)
 
 
-### Introduction
+## Introduction
 
 <!-- Actual text -->
 Welcome! I've spent ~5 years at the intersection of tech and finance as an analyst helping to identify, value and fund high growth software startups around the world. Working closely with entrepreneurs and developers over the years built up my interest in software development, and in 2020 I made the decision retool and become a full-stack developer myself. 
@@ -27,19 +27,19 @@ I'm currently enrolled in App Academy's online full-stack software engineering p
 
 <br/> 
 
-### Recent Projects 
+## Recent Projects 
 
-<h4>e.brite</h4>
+<h3>e.brite</h3>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [website](https://ebrite-app.herokuapp.com/) | [repo](https://github.com/eramsay20/ebrite/) | **e.brite is an eventbrite clone tailored specifically for online events only** [SOLO]
 
-<h4>goodgames</h4>
+<h3>goodgames</h3>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [website](https://goodgames-appacademy.herokuapp.com/) | [repo](https://github.com/cubOlson/GoodGames/wiki) | **goodgames is a clone of GoodReads with a twist of video games instead of books** [GROUP]
 
 <br/>  
 
-### Connect 
+## Connect 
 If you found value in something I'be helped create or have helpful tips on possible improvements, please feel free to message me and/or connect with me!
 <br/> 
 <div align="center">
