@@ -1,4 +1,4 @@
-![Header](https://github.com/eramsay20/eramsay20/blob/main/ReadMe_Banner.png?raw=true)
+![Header](https://github.com/eramsay20/eramsay20/blob/main/ReadMe_Banner.png?raw=true) [![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eramsay20)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Welcome! 👋
