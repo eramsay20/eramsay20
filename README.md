@@ -15,7 +15,7 @@ I'm currently enrolled in App Academy's online full-stack software engineering p
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
 
-### Frontend  
+<h1 align="center"> Frontend </h1>  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
