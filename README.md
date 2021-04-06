@@ -23,7 +23,7 @@ I'm currently enrolled in App Academy's online full-stack software engineering p
 
 <br/> 
 
-### My Recent Projects 
+### Recent Projects 
 
 <h4>e.brite</h4>
 
@@ -35,7 +35,7 @@ I'm currently enrolled in App Academy's online full-stack software engineering p
 
 <br/>  
 
-### Connect with me  
+### Connect 
 If you found value in something I'be helped create or have helpful tips on possible improvements, please feel free to message me and/or connect with me!
 <br/> 
 <div align="center">
