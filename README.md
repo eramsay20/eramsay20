@@ -1,4 +1,4 @@
-![Header](https://github.com/eramsay20/eramsay20/blob/main/ReadMe_Banner.png?raw=true)
+![Header](https://github.com/eramsay20/eramsay20/blob/main/welcome-banner.png)
 
 
 ## Introduction
