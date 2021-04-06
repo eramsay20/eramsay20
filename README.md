@@ -9,10 +9,10 @@ Analyst turned software engineer! I've spent ~5 years at the intersection of tec
 I'm currently enrolled in App Academy's online full-stack software engineering program (6 months) where I expect to graduate from in June, 2021. Covered software stacks includes both JavaScript (React/Redux/Express/Sequelize) and Python (Flask/SQLAlchemy). 
 
 
-![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eramsay20&hide=stars,issues)
+![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eramsay20&hide=stars,issues,contribs)
 
 
-## My Skill Set  
+## My Skill Sets 
 <table><tr><td valign="top" width="50%">
 
 <h3 align="center"> Frontend </h3>  
