@@ -29,7 +29,6 @@ Welcome! I've spent ~5 years at the intersection of tech and finance as an analy
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />    
-</div></td><td valign="top" width="50%">
 </table>  
 
 
