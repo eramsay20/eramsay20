@@ -40,7 +40,7 @@ I'm currently enrolled in App Academy's online full-stack software engineering p
 <br/>  
 
 ## Connect 
-If you found value in something I'be helped create or have helpful tips on possible improvements, please feel free to message me and/or connect with me!
+If you found value in something I've helped create or have helpful tips on possible improvements, please feel free to message and/or connect with me below!
 <br/> 
 <div align="center">
 <a href="https://github.com/eramsay20" target="_blank">
