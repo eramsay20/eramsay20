@@ -10,9 +10,9 @@ I'm currently enrolled in App Academy's online full-stack software engineering p
 
 <br/> 
 
-<div style={ display: 'inline', padding: '10px'}>
+<div>
     
-![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eramsay20&&count_private=true&hide=stars&show_icons=true&theme=tokyonight) &nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eramsay20&layout=compact)
+![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eramsay20&&count_private=true&hide=stars&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eramsay20&layout=compact)
 
 </div>
 
