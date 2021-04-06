@@ -15,7 +15,7 @@ I'm currently enrolled in App Academy's online full-stack software engineering p
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
 
-<h1 align="center"> Frontend </h1>  
+<h3 align="center"> Frontend </h3>  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -23,7 +23,7 @@ I'm currently enrolled in App Academy's online full-stack software engineering p
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />     
 </div></td><td valign="top" width="50%">
 
-### Backend  
+<h3 align="center"> Backend </h3>   
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
