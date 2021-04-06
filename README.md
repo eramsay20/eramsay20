@@ -9,8 +9,9 @@ Welcome! I've spent ~5 years at the intersection of tech and finance as an analy
 
 ![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eramsay20&hide=stars,issues,contribs)
 
+<br/> 
 
-## My Skill Sets 
+### My Skill Sets 
 <table><tr><td valign="top" width="50%">
 
 <h3 align="center"> Frontend </h3>  
@@ -31,8 +32,9 @@ Welcome! I've spent ~5 years at the intersection of tech and finance as an analy
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />    
 </table>  
 
+<br/> 
 
-## My Recent Projects 
+### My Recent Projects 
 
 ### [e.brite](https://ebrite-app.herokuapp.com/) | [e.brite Repo & Info](https://github.com/eramsay20/ebrite/)
 e.brite is an eventbrite clone tailored specifically for online events only
