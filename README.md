@@ -1,12 +1,10 @@
 ![Header](https://github.com/eramsay20/eramsay20/blob/main/ReadMe_Banner.png?raw=true)
 
 
-### Welcome! 👋
+### Introduction
 
 <!-- Actual text -->
-Analyst turned software engineer! I've spent ~5 years at the intersection of tech and finance helping to identify, value and fund high growth software startups around the world. Working closely with entrepreneurs and developers over the years built up my interest in software development, and in 2020 I made the decision retool and become a full-stack developer myself.
-
-I'm currently enrolled in App Academy's online full-stack software engineering program (6 months) where I expect to graduate from in June, 2021. Covered software stacks includes both JavaScript (React/Redux/Express/Sequelize) and Python (Flask/SQLAlchemy). 
+Welcome! I've spent ~5 years at the intersection of tech and finance as an analyst helping to identify, value and fund high growth software startups around the world. Working closely with entrepreneurs and developers over the years built up my interest in software development, and in 2020 I made the decision retool and become a full-stack developer myself. I'm currently enrolled in App Academy's online full-stack software engineering program (24 weeks) where I expect to graduate from in June, 2021. 
 
 
 ![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eramsay20&hide=stars,issues,contribs)
