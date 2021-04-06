@@ -9,20 +9,7 @@ Analyst turned software engineer! I've spent ~5 years at the intersection of tec
 I'm currently enrolled in App Academy's online full-stack software engineering program (6 months) where I expect to graduate from in June, 2021. Covered software stacks includes both JavaScript (React/Redux/Express/Sequelize) and Python (Flask/SQLAlchemy). 
 
 
-[![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eramsay20)]
-Here are a few samples of my recent projects:
-
-### [e.brite](https://ebrite-app.herokuapp.com/) | [e.brite Repo & Info](https://github.com/eramsay20/ebrite/)
-e.brite is an eventbrite clone tailored specifically for online events only
-   
-
-### [GoodGames](https://goodgames-appacademy.herokuapp.com/) | [GoodGames Wiki & Info](https://github.com/cubOlson/GoodGames/wiki)
-Goodgames is a clone of GoodReads with a twist of video games instead of books
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-If you found value in something I'be helped create or have helpful tips on possible improvements, please feel free to message me and/or connect with me on [LinkedIn](https://www.linkedin.com/in/ericramsay/)!
-
+![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eramsay20&hide=stars,issues)
 
 
 ## My Skill Set  
@@ -46,6 +33,20 @@ If you found value in something I'be helped create or have helpful tips on possi
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />    
 </div></td><td valign="top" width="33%">
 </div></td></tr></table>  
+
+
+## My Recent Projects 
+
+### [e.brite](https://ebrite-app.herokuapp.com/) | [e.brite Repo & Info](https://github.com/eramsay20/ebrite/)
+e.brite is an eventbrite clone tailored specifically for online events only
+   
+
+### [GoodGames](https://goodgames-appacademy.herokuapp.com/) | [GoodGames Wiki & Info](https://github.com/cubOlson/GoodGames/wiki)
+Goodgames is a clone of GoodReads with a twist of video games instead of books
+
+<br/>  
+
+If you found value in something I'be helped create or have helpful tips on possible improvements, please feel free to message me and/or connect with me on [LinkedIn](https://www.linkedin.com/in/ericramsay/)!
 
 <br/>  
 
