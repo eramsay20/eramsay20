@@ -12,10 +12,14 @@ I'm currently enrolled in App Academy's online full-stack software engineering p
 
 <div align="center">
   <div>
+    
 ![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eramsay20&&count_private=true&hide=stars&show_icons=true&theme=tokyonight)
+   
    </div>
   <div>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eramsay20&layout=compact)
+  
   </div>
 </div>
 
