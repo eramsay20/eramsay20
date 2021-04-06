@@ -1,24 +1,28 @@
-![Header](https://github.com/eramsay20/eramsay20/blob/main/ReadMe_Banner.png?raw=true) [![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eramsay20)](https://github.com/anuraghazra/github-readme-stats)
+![Header](https://github.com/eramsay20/eramsay20/blob/main/ReadMe_Banner.png?raw=true)
 
 
 ### Welcome! 👋
 
 <!-- Actual text -->
-To briefly introduce myself, I'm a full-time student currently enrolled in App Academy's full-stack immersive software engineering program! I have a passion for learning all about tech, finance and real estate. 
+Analyst turned software engineer! I've spent ~5 years at the intersection of tech and finance helping to identify, value and fund high growth software startups around the world. Working closely with entrepreneurs and developers over the years built up my interest in software development, and in 2020 I made the decision retool and become a full-stack developer myself.
+
+I'm currently enrolled in App Academy's online full-stack software engineering program (6 months) where I expect to graduate from in June, 2021. Covered software stacks includes both JavaScript (React/Redux/Express/Sequelize) and Python (Flask/SQLAlchemy). 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 [![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eramsay20)](https://github.com/anuraghazra/github-readme-stats)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-Check out a few of my public projects below to get a sample of what I can do. For the latest and greatest visit my latest projects below: 
+Here are a few samples of my recent projects:
 
-- [e.brite](https://ebrite-app.herokuapp.com/) | [e.brite Repo & Info](https://github.com/eramsay20/ebrite/)
-   - e.brite is an eventbrite clone tailored specifically for online events only
+## [e.brite](https://ebrite-app.herokuapp.com/) | [e.brite Repo & Info](https://github.com/eramsay20/ebrite/)
+e.brite is an eventbrite clone tailored specifically for online events only
    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-- [GoodGames](https://goodgames-appacademy.herokuapp.com/) | [GoodGames Wiki & Info](https://github.com/cubOlson/GoodGames/wiki)
-  - Goodgames is a clone of GoodReads with a twist of video games instead of books
+## [GoodGames](https://goodgames-appacademy.herokuapp.com/) | [GoodGames Wiki & Info](https://github.com/cubOlson/GoodGames/wiki)
+Goodgames is a clone of GoodReads with a twist of video games instead of books
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
