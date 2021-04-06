@@ -37,20 +37,15 @@ Welcome! I've spent ~5 years at the intersection of tech and finance as an analy
 
 ### My Recent Projects 
 
-#### [e.brite](https://ebrite-app.herokuapp.com/) | [e.brite repo](https://github.com/eramsay20/ebrite/)
-e.brite is an eventbrite clone tailored specifically for online events only [SOLO]
+### e.brite | [website](https://ebrite-app.herokuapp.com/) | [repo](https://github.com/eramsay20/ebrite/)
+- e.brite is an eventbrite clone tailored specifically for online events only [SOLO]
    
 <br/> 
 
-#### [goodgames](https://goodgames-appacademy.herokuapp.com/) | [goodgames wiki](https://github.com/cubOlson/GoodGames/wiki)
-goodgames is a clone of GoodReads with a twist of video games instead of books [GROUP]
+### goodgames | [website](https://goodgames-appacademy.herokuapp.com/) | [repo](https://github.com/cubOlson/GoodGames/wiki)
+- goodgames is a clone of GoodReads with a twist of video games instead of books [GROUP]
 
 <br/>  
-
-If you found value in something I'be helped create or have helpful tips on possible improvements, please feel free to message me and/or connect with me!
-
-<br/>  
-
 
 ### Connect with me  
 If you found value in something I'be helped create or have helpful tips on possible improvements, please feel free to message me and/or connect with me!
