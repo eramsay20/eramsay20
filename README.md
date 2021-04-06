@@ -22,11 +22,11 @@ I'm currently enrolled in App Academy's online full-stack software engineering p
 
 ### My Recent Projects 
 
-#### e.brite  
+&nbsp;&nbsp;<h3>e.brite</h3>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [website](https://ebrite-app.herokuapp.com/) | [repo](https://github.com/eramsay20/ebrite/) | summary: e.brite is an eventbrite clone tailored specifically for online events only [SOLO]
 
-#### goodgames 
+&nbsp;&nbsp;<h3>goodgames</h3>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [website](https://goodgames-appacademy.herokuapp.com/) | [repo](https://github.com/cubOlson/GoodGames/wiki) | summary: goodgames is a clone of GoodReads with a twist of video games instead of books [GROUP]
 
