@@ -35,7 +35,7 @@ I'm currently enrolled in App Academy's online full-stack software engineering p
 
 <h3>relay</h3>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [website](https://relay-aa.herokuapp.com/) | [repo](https://github.com/eramsay20/relay/wiki) | **Relay** is a clone of Asana that focuses on helping teams manage their projects through custom task lists. Users can create new projects, invite team members, organize, delegate and track the completion of tasks. [GROUP]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [website](https://relay-aa.herokuapp.com/) | [repo](https://github.com/eramsay20/relay) | **Relay** is a clone of Asana that focuses on helping teams manage their projects through custom task lists. Users can create new projects, invite team members, organize, delegate and track the completion of tasks. [GROUP]
 
 <h3>goodgames</h3>
 
