@@ -24,6 +24,16 @@ I'm currently enrolled in App Academy's online full-stack software engineering p
 
 ![EXPRESS](	https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) ![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
+<br/> 
+<br/> 
+
+## Recent Projects 
+
+View the pinned repos below for samples of my latest full-stack projects. 
+
+
+<br/> 
+<br/> 
 
 ## Connect 
 If you found value in something I've helped create or have helpful tips on possible improvements, please feel free to message and/or connect with me below!
@@ -37,7 +47,3 @@ If you found value in something I've helped create or have helpful tips on possi
 </a>
 </div>  
 
-
-<br/> 
-
-## Recent Projects 
