@@ -25,24 +25,6 @@ I'm currently enrolled in App Academy's online full-stack software engineering p
 ![EXPRESS](	https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) ![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 
-<br/> 
-
-## Recent Projects 
-
-<h3>e.brite</h3>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [website](https://ebrite-app.herokuapp.com/) | [repo](https://github.com/eramsay20/ebrite/) | **e.brite is an eventbrite clone tailored specifically for online events only** [SOLO]
-
-<h3>relay</h3>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [website](https://relay-aa.herokuapp.com/) | [repo](https://github.com/eramsay20/relay) | **Relay** is a clone of Asana that focuses on helping teams manage their projects through custom task lists. Users can create new projects, invite team members, organize, delegate and track the completion of tasks. [GROUP]
-
-<h3>goodgames</h3>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [website](https://goodgames-appacademy.herokuapp.com/) | [repo](https://github.com/cubOlson/GoodGames/wiki) | **goodgames is a clone of GoodReads with a twist of video games instead of books** [GROUP]
-
-<br/>  
-
 ## Connect 
 If you found value in something I've helped create or have helpful tips on possible improvements, please feel free to message and/or connect with me below!
 <br/> 
@@ -54,3 +36,8 @@ If you found value in something I've helped create or have helpful tips on possi
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>  
+
+
+<br/> 
+
+## Recent Projects 
