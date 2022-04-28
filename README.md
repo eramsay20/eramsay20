@@ -6,7 +6,7 @@
 <!-- Actual text -->
 Welcome! I've spent ~5 years at the intersection of tech and finance as an analyst helping to identify, value and fund high growth software startups around the world. Working closely with entrepreneurs and developers over the years built up my interest in software development, and in 2020 I made the decision retool and become a full-stack developer myself. 
 
-I'm currently enrolled in App Academy's online full-stack software engineering program (24 weeks) where I expect to graduate from in June, 2021. Covered software stacks includes both JavaScript (React/Redux/Express/Sequelize) and Python (Flask/SQLAlchemy).
+I'm currently working as a Frontend Software Engineer at CloudBees on a small team managaing and maintaining their website. 
 
 <br/> 
 
