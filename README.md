@@ -10,12 +10,6 @@ I'm currently working as a Frontend Software Engineer at CloudBees on a small te
 
 <br/> 
 
-<div>
-    
-![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eramsay20&&count_private=true&hide=stars&show_icons=true&theme=tokyonight) 
-
-</div>
-
 <!-- Top Lang: ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eramsay20&layout=compact) -->
 
 <!-- Badge Links: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
